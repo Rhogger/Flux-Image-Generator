@@ -6,7 +6,8 @@ Este componente gera uma imagem a partir de um texto fornecido e retorna a url d
 
 ## Pré-requisitos
 
-- Nenhum
+- Possuir uma conta no fal.ai.
+- Possuir uma API-KEY no fal.ai.
 
 <br>
 
@@ -24,3 +25,4 @@ Este componente gera uma imagem a partir de um texto fornecido e retorna a url d
 | Nome | Tipo | Descrição |
 |------|------|-----------|
 | image_url | String | Link da imagem gerada. |
+
